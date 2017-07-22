@@ -8,3 +8,5 @@
   A. Rees-Jones (2017). "Mistaken Play in the Deferred Acceptance Algorithm: Implications for Positive Assortative Matching"のレプリケーション
 * [優 昌晟](http://nbviewer.jupyter.org/github/4kizuki/AkizukiMatching.jl/blob/master/da-lie.ipynb)  
   受容側が嘘の情報を提出し、利益を得ることができるかどうかを検証。
+  * [佐々木　彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyMatchingA.jl/blob/master/src/test.2.ipynb)
+  前回のコードを、Many-to-Manyに拡張しました。
